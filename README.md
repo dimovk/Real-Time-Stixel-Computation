@@ -1,7 +1,7 @@
 # multilayer-stixel-world
 A real-time implementation of multi-layered stixel computation
 
-![Real-Time-Stixel-Computation](https://github.com/dimovk/Real-Time-Stixel-Computation/tree/master/Example%20Output/stixels2.png)
+![Real-Time-Stixel-Computation](https://github.com/dimovk/Real-Time-Stixel-Computation/blob/master/Example%20Output/stixels2.png)
 
 ## Description
 - An implementation of the Multi-Layered Stixel computation based on [1].
